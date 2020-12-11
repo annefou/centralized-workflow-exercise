@@ -1,0 +1,3 @@
+I like to use git commit -v
+
+this shows the change in the commit message editor
